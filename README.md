@@ -1,2 +1,2 @@
 # MorphApp
-App capable of turning people to creatures
+App capable of turning people to other creatures
